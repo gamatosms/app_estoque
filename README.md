@@ -1,1 +1,2 @@
-# app_estoque
+# estoque
+Projeto Java para um estoque de mercadorias
